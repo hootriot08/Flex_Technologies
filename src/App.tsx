@@ -4,6 +4,7 @@ import ProblemSection from './components/ProblemSection';
 import ServicesSection from './components/ServicesSection';
 import ProcessSection from './components/ProcessSection';
 import OnPremSection from './components/OnPremSection';
+import DemoSection from './components/DemoSection';
 import UseCasesSection from './components/UseCasesSection';
 import FounderSection from './components/FounderSection';
 import ContactSection from './components/ContactSection';
@@ -19,6 +20,7 @@ function App() {
         <ServicesSection />
         <ProcessSection />
         <OnPremSection />
+        <DemoSection />
         <UseCasesSection />
         <FounderSection />
         <ContactSection />
